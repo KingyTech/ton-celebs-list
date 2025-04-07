@@ -33,6 +33,11 @@
     {
       "name": "Aleksandr Shepelev",
       "description": "xRocket",
-      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
-    }
+
+    {
+        "name": "Aleksandr Plotvinov",
+      "description": "Notcoin",
+      "walletAddress": "UQCDeVB-qE24XrlO7WHZa4HR-ve_hqkjW6F7eij4PBktTUr4"
+
+    },
   ] 
