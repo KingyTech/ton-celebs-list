@@ -43,7 +43,8 @@
   {
     "name": "Ilya Setsko",
     "description": "FPIBank",
-    "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg""imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
+    "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg"
+    "imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
   },
   {
     "name": "КриптоДед",
@@ -63,34 +64,34 @@
     "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
   },
   {
-    "name": "Heydenis",
-    "description": "cryptodays",
-    "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
-    "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+      "name": "Heydenis",
+      "description": "cryptodays",
+      "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
+      "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
   },
   {
-    "name": "Brazo",
-    "description": "Vibes",
-    "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
-    "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
+      "name": "Brazo",
+      "description": "Vibes",
+      "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
+      "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
   },
   {
-    "name": "Malena Rioni",
-    "description": "TON Georgia",
-    "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
-    "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
+      "name": "Malena Rioni",
+      "description": "TON Georgia",
+      "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
+      "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
   },
   {
-    "name": "Stanislav",
-    "description": "ton2k",
-    "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
-    "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
+      "name": "Stanislav",
+      "description": "ton2k",
+      "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
+      "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
   },
   {
-    "name": "Julia Innovator",
-    "description": "aquaprotocol",
-    "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
-    "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+      "name": "Julia Innovator",
+      "description": "aquaprotocol",
+      "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
+      "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
   },
   {
     "name": "Alexander Plotvinov",
