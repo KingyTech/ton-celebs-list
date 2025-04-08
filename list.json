@@ -1,96 +1,106 @@
 [
-    {
-      "name": "Pavel Durov",
-      "description": "Telegram",
-      "walletAddress": "UQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinf4K",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg/640px-TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg"
-    },
-    {
-      "name": "Vudi Kingyru",
-      "description": "Investment Kingyru 💎",
-      "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj"
-    },
-    {
-      "name": "Andrey Rogozov",
-      "description": "The Open Platform",
-      "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz"
-    },
-    {
-      "name": "Alena Shmalko",
-      "description": "TON Foundation",
-      "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN"
-    },
-    {
-      "name": "Michele Inetovsky",
-      "description": "swap.coffee",
-      "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF"
-    },
-    {
-      "name": "Manuel Stotz",
-      "description": "TON Foundation",
-      "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV"
-    },
-    {
-      "name": "Aleksandr Shepelev",
-      "description": "xRocket",
-      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
-    },
-    {
-      "name": "Evilzeus",
-      "description": "Life in the Crypto",
-      "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
-    },
-    {
-      "name": "Ilya Setsko",
-      "description": "FPIBank",
-      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg"
-      "imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
-    },
-    {
-      "name": "КриптоДед",
-      "description": "Автор Канала КриптоДед",
-      "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
-      "imageUrl": "https://ibb.co/hxZcQDQv"
-    },
-    {
-      "name": "Alexey Toropov",
-      "description": "TON Society",
-      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
-    },
-    {
-      "name": "w0rm bLue",
-      "description": "Club 100",
-      "walletAddress": "UQD3L3R9zVwobj7b3gdieI5_JgYgXQ_kMwRRCHSxjLIbH47c",
-      "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
-    },
-    {
-        "name": "Heydenis",
-        "description": "cryptodays",
-        "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
-        "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
-    },
-    {
-        "name": "Brazo",
-        "description": "Vibes",
-        "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
-        "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
-    },
-    {
-        "name": "Malena Rioni",
-        "description": "TON Georgia",
-        "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
-        "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
-    },
-    {
-        "name": "Stanislav",
-        "description": "ton2k",
-        "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
-        "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
-    },
-    {
-        "name": "Julia Innovator",
-        "description": "aquaprotocol",
-        "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
-        "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
-    }
-  ]
+  {
+    "name": "Pavel Durov",
+    "description": "Telegram",
+    "walletAddress": "UQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinf4K",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg/640px-TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Vudi Kingyru",
+    "description": "Investment Kingyru 💎",
+    "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj"
+  },
+  {
+    "name": "Andrey Rogozov",
+    "description": "The Open Platform",
+    "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz"
+  },
+  {
+    "name": "Alena Shmalko",
+    "description": "TON Foundation",
+    "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN"
+  },
+  {
+    "name": "Michele Inetovsky",
+    "description": "swap.coffee",
+    "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF"
+  },
+  {
+    "name": "Manuel Stotz",
+    "description": "TON Foundation",
+    "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV"
+  },
+  {
+    "name": "Aleksandr Shepelev",
+    "description": "xRocket",
+    "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
+  },
+  {
+    "name": "Evilzeus",
+    "description": "Life in the Crypto",
+    "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
+  },
+  {
+    "name": "Ilya Setsko",
+    "description": "FPIBank",
+    "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg""imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
+  },
+  {
+    "name": "КриптоДед",
+    "description": "Автор Канала КриптоДед",
+    "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
+    "imageUrl": "https://ibb.co/hxZcQDQv"
+  },
+  {
+    "name": "Alexey Toropov",
+    "description": "TON Society",
+    "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
+  },
+  {
+    "name": "w0rm bLue",
+    "description": "Club 100",
+    "walletAddress": "UQD3L3R9zVwobj7b3gdieI5_JgYgXQ_kMwRRCHSxjLIbH47c",
+    "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
+  },
+  {
+    "name": "Heydenis",
+    "description": "cryptodays",
+    "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
+    "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+  },
+  {
+    "name": "Brazo",
+    "description": "Vibes",
+    "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
+    "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
+  },
+  {
+    "name": "Malena Rioni",
+    "description": "TON Georgia",
+    "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
+    "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
+  },
+  {
+    "name": "Stanislav",
+    "description": "ton2k",
+    "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
+    "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
+  },
+  {
+    "name": "Julia Innovator",
+    "description": "aquaprotocol",
+    "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
+    "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+  },
+  {
+    "name": "Alexander Plotvinov",
+    "description": "NOT Founder",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.56yPxr0qhp8GBxOwvSKTwQHaEK%26pid%3DApi%26h%3D160&f=1&ipt=0e6fb356d59f871f08383dbc1f53363f9f67c9ad65a607dc9de81fdbaf397bba&ipo=images",
+    "walletAddress": "UQCDeVB-qE24XrlO7WHZa4HR-ve_hqkjW6F7eij4PBktTUr4"
+  },
+  {
+    "name": "Mr Freeman",
+    "description": "Tonnel Founder",
+    "walletAddress": "UQBSV_u2NPNNymFZgX0VqRwu2v6cTJo7symgqKFwzcNZ7me4"
+  }
+]
