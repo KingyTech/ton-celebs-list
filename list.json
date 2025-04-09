@@ -345,5 +345,11 @@
     "description": "STON.fi",
     "walletAddress": "UQDSE2BHJi4Qowu4jgvqQ3_4-KFrR2x6DqPzFkMGczCgoLcK",
     "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
+  },
+  {
+    "name": "Roxman",
+    "description": "Major, Fabrika",
+    "walletAddress": "UQBnkKE9wJ6VX6Yk4DSNLE1jiMy15--7Q5ln6YDI3jtNPY44",
+    "imageUrl": "https://raw.githubusercontent.com/Relder1/relder1/refs/heads/main/roxmanlogo.jpg"
   }
 ]
