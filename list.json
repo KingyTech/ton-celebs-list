@@ -38,8 +38,12 @@
     {
       "name": "Aleksandr Shepelev",
       "description": "xRocket",
-      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK",
-      "imageUrl": "https://i.ibb.co/35jbrHTH/1535785064287.jpg"
+      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
+    },
+    {
+      "name": "FollowDragons",
+      "description": "Founder of the FollowDragons ecosystem",
+      "walletAddress": "UQDZ50qSnusEidNkAZw4do-TXqaBMhcrpZ4d2ya6xUl55jXf"
     },
     {
       "name": "Evilzeus",
