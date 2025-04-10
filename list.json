@@ -347,8 +347,12 @@
     "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
   },
   {
+    "name": "scmbrgr",
+    "description": "fakedonalds",
+    "walletAddress": "UQDkz5AuQIvZ0iAzOJR7EyY-kv-CFc9AoBgcgixoBJZPpnPk",
+    "imageUrl": "https://ibb.co/rKKy7GGK"
+  }
     "name": "Andrey Yakovenko",
     "description": "Ohuenko",
     "walletAddress": "UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP"
   }
-]
