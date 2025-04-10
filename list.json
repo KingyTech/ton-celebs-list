@@ -350,5 +350,21 @@
     "name": "Andrey Yakovenko",
     "description": "Ohuenko",
     "walletAddress": "UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP"
-  }
+  },
+
+  {
+    "name": "Kirill",
+    "description": "Barboskich",
+    "walletAddress": "UQCOzY5_X8icdUN9Vtfg2WJW-_WVRJ238Ahq9ksV-RmiYyBy",
+    "imageUrl": "https://imgur.com/a/Sob98qZ"
+  },
+  
+  {
+    "name": "Roxman",
+    "description": "Major + Durov`s friend",
+    "walletAddress": "UQBnkKE9wJ6VX6Yk4DSNLE1jiMy15--7Q5ln6YDI3jtNPY44",
+    "imageUrl": "https://imgur.com/a/qx0dT2D"
+  },
+
+  
 ]
