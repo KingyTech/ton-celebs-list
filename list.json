@@ -140,8 +140,9 @@
   },
   {
     "name": "Boltovsky",
-    "description": "Bolt Foundation",
-    "walletAddress": "UQBxLLK2E-3q_Kyee3mxiOPTh-ohxBXW5OTAz7_6arcDHYMg"
+    "description": "BOLT Foundation",
+    "walletAddress": "UQBxLLK2E-3q_Kyee3mxiOPTh-ohxBXW5OTAz7_6arcDHYMg",
+    "imageUrl": "https://s.getgems.io/nft/c/65980e1630ff892b0d470c7d/23/image.png"
   },
   {
     "name": "Vladimir",
