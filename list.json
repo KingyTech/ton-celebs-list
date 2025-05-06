@@ -389,5 +389,11 @@
     "description": "TF DeFi Lead",
     "walletAddress": "UQDJfF2sU-Et5wltS6s4tDfxwdT0BprtnLwjFQo3n_Wjz6X_",
     "imageUrl": "https://i.ytimg.com/vi/XEnIGC_CvbA/maxresdefault.jpg"
+  },
+  {
+    "name": "Self-Owner",
+    "description": "TON Monitoring",
+    "walletAddress": "UQCv_g6U-fhIbRTbbJbcUEzjK93ZtXyYAHW46TLb3ZEuY3Qg",
+    "imageUrl": "https://cdn.nomis.cc/dynamic/telegram-user-avatars/659773038.jpg"
   }
 ]
