@@ -1,0 +1,22 @@
+[
+  {
+      "name": "Kirill",
+      "description": "Barboskich",
+      "walletAddress": "UQCOzY5_X8icdUN9Vtfg2WJW-_WVRJ238Ahq9ksV-RmiYyBy",
+      "imageUrl": "https://imgur.com/a/Sob98qZ"
+  }
+  
+  {
+    "name": "george_boltovsky",
+    "description": "Bolt / Boltfather",
+    "walletAddress": "UQBxLLK2E-3q_Kyee3mxiOPTh-ohxBXW5OTAz7_6arcDHYMg",
+    "imageUrl": "https://imgur.com/a/IEzRCvd"
+  }
+  
+  {
+    "name": "sepezho",
+    "description": "Evaa Protocol",
+    "walletAddress": "UQDtLphQq6LfgQIrEgMB3dpdQPSpbZ17tr4E2to-5Hf1SPZH",
+    "imageUrl": "https://imgur.com/a/SrFYj4M"
+  }
+]
