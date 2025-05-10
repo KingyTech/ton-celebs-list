@@ -332,6 +332,12 @@
     "imageUrl": "https://i.imgur.com/VN10G7P.png"
   },
   {
+    "name": "NOTME",
+    "description": "Not Community",
+    "walletAddress": "UQBLVI8zvPpHWLoESbrn0LsgQ15oUyeuTFttvGKkr_17cJW1",
+    "imageUrl": "https://cdn4.cdn-telegram.org/file/WTexnoN3zfwr1avRh1KiCgV5u8pMLXRViHfqY-0Qn3hgygo_vmANBWnRDjnEwxgQGt5MAMKi-mI0lurGJcBMTDKkt8f2RPuuNpN6ynqtQCcZ-beUuluFpq1O0oHUoxoP-yjVRfLKMHHd9uJm0so2frDbj3NHOgmnhQj6V7QIhjK7sQFFhrGa_FrKwlZz9WoRqePH9BpTUFpzUIw6WH_Gt_PU2qkhdzH2XN4Hjq0rM08LtaVrBagxkZH-SbInYR5zRDDsLPOKnRcbH2XHrTPxC-N10p9ZxvXvFXDp6ZFtd7QA2_5yKneDeHGa0zUPSJ48mxwLc8FdRjSoP0VW2ko8kg.jpg"
+    },
+  {
     "name": "Kirill Filimonov",
     "description": "Give me TON",
     "walletAddress": "UQDQY1a_xpLq6b3LjH5MUIV1-6tO7I4fO3VqNuGY2BIo3QaC",
